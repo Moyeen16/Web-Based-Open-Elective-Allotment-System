@@ -1,0 +1,60 @@
+header
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#faf8f8;
+    width: 100%;
+    text-align: center;
+}
+.banner_image
+{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(background.jpg) no-repeat center center; 
+    background-size: cover;
+}
+
+.navbar
+{
+    margin-bottom: 0;
+}
+
+.content
+{
+    position: relative;
+    margin-top: 5%;
+    max-width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.panel-transparent
+{
+    background: none;
+}
+.panel-transparent .panel-heading
+{
+    background: rgba(8, 1, 31, 0.888);
+}
+
+.panel-transparent .panel-body
+{
+    background: rgba(8, 1, 31, 0.50); 
+}
+.panel-footer
+{
+    background: rgba(8, 1, 31, 0.888);
+    text-align: left;
+}
+
+footer
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#907ff3;
+    bottom: 0;
+    font-style: italic;
+    width: 100%;
+}

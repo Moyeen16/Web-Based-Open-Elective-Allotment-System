@@ -1,0 +1,49 @@
+header
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#faf8f8;
+    width: 100%;
+    text-align: center;
+}
+
+button
+{
+	height:35px;
+	width:200px;
+}
+
+.inner
+{
+    position: relative;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.form-text
+{
+    text-align: left;
+}
+
+.navbar
+{
+    margin-bottom: 0;
+}
+
+.content
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    text-align: center;
+}
+
+footer
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#907ff3;
+    bottom: 0;
+    font-style: italic;
+    width: 100%;
+}

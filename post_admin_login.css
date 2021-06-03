@@ -1,0 +1,54 @@
+header
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#faf8f8;
+    width: 100%;
+    text-align: center;
+}
+.banner_image
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    color: #f8f8f8;
+    background: rgb(146, 146, 240)
+    
+}
+
+.inner
+{
+    padding: 10px 10px 30px 10px;
+}
+
+button
+{
+	height:35px;
+	width:200px;
+}
+    
+.navbar
+{
+    margin-bottom: 0;
+}
+
+.content
+{
+    position: relative;
+    margin-top: 4.25%;
+    max-width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 4.25%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+footer
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#907ff3;
+    bottom: 0;
+    font-style: italic;
+    width: 100%;
+}

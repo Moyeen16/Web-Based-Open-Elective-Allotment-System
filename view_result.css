@@ -1,0 +1,40 @@
+header
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#faf8f8;
+    width: 100%;
+    text-align: center;
+}
+
+.inner
+{
+    padding: 10px 10px 30px 10px;
+    text-align: center;
+}
+
+.navbar
+{
+    margin-bottom: 0;
+}
+
+.content
+{
+    position: relative;
+    margin-top: 4.25%;
+    max-width: 100%;
+    margin-bottom: 4.25%;
+    align-items: center;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.194)
+}
+
+footer
+{
+    padding: 10px 0;
+    background-color: #060232;
+    color:#907ff3;
+    bottom: 0;
+    font-style: italic;
+    width: 100%;
+}
